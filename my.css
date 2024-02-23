@@ -112,8 +112,8 @@ p {
 
 .header {
   padding: 98px 10px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 209, 198, 0.55)), to(rgba(100, 209, 198, 0.55))), url("https://daks2k3a4ib2z.cloudfront.net/530ab3ac7b5bc4ca19000b96/530ab7d8519f56c819000955_ocean-rocks.jpg");
-  background-image: linear-gradient(180deg, rgba(100, 209, 198, 0.55), rgba(100, 209, 198, 0.55)), url("https://daks2k3a4ib2z.cloudfront.net/530ab3ac7b5bc4ca19000b96/530ab7d8519f56c819000955_ocean-rocks.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 209, 198, 0.55)), to(rgba(100, 209, 198, 0.55))), url("https://https://cleanmysite.github.io/IMG_0002.jpeg");
+  background-image: linear-gradient(180deg, rgba(100, 209, 198, 0.55), rgba(100, 209, 198, 0.55)), url("https://cleanmysite.github.io/IMG_0002.jpeg");
   background-position: 0% 0%, 50% 70%;
   background-size: auto, cover;
   color: #fff;
@@ -123,8 +123,8 @@ p {
 .header.project-page {
   padding-top: 77px;
   padding-bottom: 77px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 209, 198, 0.55)), to(rgba(100, 209, 198, 0.55))), url("https://daks2k3a4ib2z.cloudfront.net/530ab3ac7b5bc4ca19000b96/530bb26a6b34b489110000e7_lake.jpg");
-  background-image: linear-gradient(180deg, rgba(100, 209, 198, 0.55), rgba(100, 209, 198, 0.55)), url("https://daks2k3a4ib2z.cloudfront.net/530ab3ac7b5bc4ca19000b96/530bb26a6b34b489110000e7_lake.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 209, 198, 0.55)), to(rgba(100, 209, 198, 0.55))), url("https://cleanmysite.github.io/IMG_0002.jpeg");
+  background-image: linear-gradient(180deg, rgba(100, 209, 198, 0.55), rgba(100, 209, 198, 0.55)), url("https://cleanmysite.github.io/IMG_0002.jpeg");
 }
 
 .navbar {
