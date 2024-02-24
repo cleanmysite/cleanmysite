@@ -196,7 +196,7 @@ p {
 
 .about-section {
   padding-bottom: 61px;
-  background-color: #8efacf;
+  background-color: #a5ffdb;
   text-align: center;
 }
 
@@ -223,7 +223,7 @@ p {
 }
 
 .section.contact {
-  background-color: #8efacf;
+  background-color: #a5ffdb;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(126, 196, 189, 0.87)), to(#7ec4bd)), url("https://cleanmysite.github.io/IMG_0012.png");
   background-image: linear-gradient(180deg, rgba(126, 196, 189, 0.87), #7ec4bd), url("https://cleanmysite.github.io/IMG_0012.png");
   background-size: auto, cover;
