@@ -224,8 +224,8 @@ p {
 
 .section.contact {
   background-color: #7ec4bd;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(126, 196, 189, 0.87)), to(#7ec4bd)), url("https://daks2k3a4ib2z.cloudfront.net/530ab3ac7b5bc4ca19000b96/530b832b3cd1ace03e0009c4_footer-bg.jpg");
-  background-image: linear-gradient(180deg, rgba(126, 196, 189, 0.87), #7ec4bd), url("https://daks2k3a4ib2z.cloudfront.net/530ab3ac7b5bc4ca19000b96/530b832b3cd1ace03e0009c4_footer-bg.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(126, 196, 189, 0.87)), to(#7ec4bd)), url("https://cleanmysite.github.io/IMG_0012.png");
+  background-image: linear-gradient(180deg, rgba(126, 196, 189, 0.87), #7ec4bd), url("https://cleanmysite.github.io/IMG_0012.png");
   background-size: auto, cover;
   font-family: Vollkorn, serif;
 }
