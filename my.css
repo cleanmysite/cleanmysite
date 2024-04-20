@@ -2,49 +2,61 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #F8F8F9;
 }
+
 header {
-    background-color: #333;
+    background-color: #97B4B4;
     color: #fff;
     padding: 20px;
     text-align: center;
 }
+
 h1 {
     margin: 0;
 }
+
 .container {
     max-width: 800px;
     margin: 20px auto;
     padding: 0 20px;
 }
+
 .service {
     margin-bottom: 20px;
 }
+
 .contact-form {
-    border: 1px solid #ccc;
+    border: 1px solid #A3BBD3;
     padding: 20px;
     margin-bottom: 20px;
+    background-color: #8492B5;
 }
+
 .contact-form label {
     display: block;
     margin-bottom: 10px;
+    color: #fff;
 }
+
 .contact-form input, .contact-form textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     box-sizing: border-box;
 }
+
 .contact-form button {
-    background-color: #333;
+    background-color: #507CA4;
     color: #fff;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
     width: 100%;
 }
+
 .contact-form button:hover {
-    background-color: #555;
+    background-color: #97B4B4;
 }
 
 /* Responsive Styles */
