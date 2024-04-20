@@ -180,7 +180,7 @@ p {
   width: 80px;
   height: 2px;
   margin: 28px auto;
-  background-color: #fff;
+  background-color: #fff; /*white*/
 }
 
 .divider.grey {
@@ -197,7 +197,7 @@ p {
 
 .about-section {
   padding-bottom: 61px;
-  background-color: #a5ffdb;
+  background-color: #97B4B4;
   text-align: center;
 }
 
@@ -220,7 +220,7 @@ p {
 }
 
 .section.grey {
-  background-color: #f5f5f5;
+  background-color: #f5f5f5; /*light gray*/
 }
 
 .section.contact {
@@ -232,14 +232,14 @@ p {
 }
 
 .section.footer {
-  background-color: #000;
+  background-color: #000; /*black*/
 }
 
 .grey-icon-wrapper {
   margin-bottom: 38px;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: #f5f5f5;
+  background-color: #f5f5f5; /*light gray*/
 }
 
 .project-wrapper {
@@ -248,7 +248,7 @@ p {
   display: block;
   -webkit-transition: bottom 300ms ease;
   transition: bottom 300ms ease;
-  color: #333;
+  color: #333; /*light black*/
   text-decoration: none;
 }
 
@@ -275,7 +275,7 @@ p {
   padding-top: 5px;
   padding-left: 1px;
   border-radius: 100%;
-  background-color: #f5f5f5;
+  background-color: #f5f5f5; /*light gray*/
   box-shadow: inset 0 0 0 1px transparent;
   -webkit-transition: box-shadow 300ms ease;
   transition: box-shadow 300ms ease;
@@ -302,12 +302,12 @@ p {
   width: 40px;
   -webkit-transition: color 300ms ease;
   transition: color 300ms ease;
-  color: #e3e3e3;
+  color: #e3e3e3; /*light gray*/
   font-size: 30px;
 }
 
 .arrow:hover {
-  color: #333;
+  color: #333; /*light black*/
 }
 
 .testimonial-slide {
@@ -340,7 +340,7 @@ p {
 .from {
   margin-bottom: 0px;
   font-family: Montserrat, sans-serif;
-  color: #ababab;
+  color: #ababab; /*dark gray*/
   font-size: 14px;
   font-weight: 400;
   text-transform: uppercase;
@@ -362,7 +362,7 @@ p {
 }
 
 .contact-text {
-  color: #212121;
+  color: #212121; /*dark Black*/
   font-size: 17px;
 }
 
@@ -405,7 +405,7 @@ p {
   border: 0px solid #000;
   background-color: hsla(0, 0%, 100%, 0.2);
   box-shadow: inset 3px 0 0 0 transparent;
-  color: #7ec4bd;
+  color: #97B4B4;
   font-size: 18px;
   font-style: italic;
 }
@@ -434,9 +434,9 @@ p {
   padding-bottom: 82px;
   border-style: solid;
   border-width: 1px 1px 2px;
-  border-color: #7ec4bd;
+  border-color: #97B4B4;
   background-color: transparent;
-  color: #7ec4bd;
+  color: #97B4B4;
 }
 
 .project-info {
@@ -491,7 +491,7 @@ p {
   }
   .menu-button.w--open {
     background-color: transparent;
-    color: #7ec4bd;
+    color: #97B4B4;
   }
   .nav-menu {
     background-color: #f5f5f5;
