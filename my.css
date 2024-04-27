@@ -114,8 +114,8 @@ p {
 /*Matrix picture area*/
 .header {
   padding: 98px 10px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 209, 198, 0.65)), to(rgba(100, 209, 198, 0.65))), url("https://https://cleanmysite.github.io/matrix_purple.jpg");
-  background-image: linear-gradient(180deg, rgba(100, 209, 198, 0.65), rgba(100, 209, 198, 0.65)), url("https://cleanmysite.github.io/matrix_purple.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(132, 146, 181, 0.65)), to(rgba(132, 146, 181, 0.65))), url("https://https://cleanmysite.github.io/matrix_purple.jpg");
+  background-image: linear-gradient(180deg, rgba(132, 146, 181, 0.65), rgba(132, 146, 181, 0.65)), url("https://cleanmysite.github.io/matrix_purple.jpg");
   background-position: 0% 0%, 50% 70%;
   background-size: auto, cover;
   color: #fff;
@@ -125,8 +125,8 @@ p {
 .header.project-page {
   padding-top: 77px;
   padding-bottom: 77px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 209, 198, 0.65)), to(rgba(100, 209, 198, 0.65))), url("https://cleanmysite.github.io/matrix_purple.jpg");
-  background-image: linear-gradient(180deg, rgba(100, 209, 198, 0.65), rgba(100, 209, 198, 0.65)), url("https://cleanmysite.github.io/matrix_purple.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(132, 146, 181, 0.65)), to(rgba(132, 146, 181, 0.65))), url("https://cleanmysite.github.io/matrix_purple.jpg");
+  background-image: linear-gradient(180deg, rgba(132, 146, 181, 0.65), rgba(132, 146, 181, 0.65)), url("https://cleanmysite.github.io/matrix_purple.jpg");
 }
 
 .navbar {
