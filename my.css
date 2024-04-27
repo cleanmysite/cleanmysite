@@ -67,48 +67,6 @@ nav {
 .dropdown {
     display: none;
 }
-
-@media screen and (max-width: 600px) {
-    .menu li:not(:last-child) {
-        display: none;
-    }
-
-    .dropdown {
-        display: block;
-        position: relative;
-    }
-
-    .dropdown .dropbtn {
-        background-color: transparent;
-        color: #fff;
-        border: none;
-        cursor: pointer;
-    }
-
-    .dropdown-content {
-        display: none;
-        position: absolute;
-        background-color: #f9f9f9;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
-    }
-
-    .dropdown-content a {
-        color: black;
-        padding: 12px 16px;
-        text-decoration: none;
-        display: block;
-    }
-
-    .dropdown-content a:hover {
-        background-color: #ddd;
-    }
-
-    .dropdown:hover .dropdown-content {
-        display: block;
-    }
-}
 /* END MENU */
 
 /* Style the Header1 */
@@ -162,3 +120,48 @@ h1 {
     background-color: #97B4B4;
 }
 
+/* Style for MOBILE */
+@media screen and (max-width: 767px) {
+    /* MAKE MENU DROPDOWN */
+    .menu li:not(:last-child) {
+        display: none;
+    }
+
+    .dropdown {
+        display: block;
+        position: relative;
+    }
+
+    .dropdown .dropbtn {
+        background-color: transparent;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .dropdown-content a:hover {
+        background-color: #ddd;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    /* TBD */
+}
