@@ -111,6 +111,7 @@ p {
   background-color: rgba(126, 196, 189, 0.34);
 }
 
+/*Matrix picture area*/
 .header {
   padding: 98px 10px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 209, 198, 0.55)), to(rgba(100, 209, 198, 0.55))), url("https://https://cleanmysite.github.io/matrix_purple.jpg");
@@ -195,9 +196,10 @@ p {
   font-style: italic;
 }
 
+/*Section Under Matrix Pic*/
 .about-section {
   padding-bottom: 61px;
-  background-color: #8492B5;
+  background-color: #A3BBD3;
   text-align: center;
 }
 
