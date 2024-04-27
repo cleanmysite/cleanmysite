@@ -34,27 +34,32 @@ header {
 }
 
 /* CSS for the menu */
-nav ul.menu {
+nav {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
 }
 
-nav ul.menu li {
+.menu li {
     margin-right: 15px;
 }
 
-nav ul.menu li:last-child {
+.menu li:last-child {
     margin-right: 0;
 }
 
-nav ul.menu li a {
+.menu li a {
     color: #fff;
     text-decoration: none;
 }
 
-nav ul.menu li a:hover {
+.menu li a:hover {
     text-decoration: underline;
 }
 
